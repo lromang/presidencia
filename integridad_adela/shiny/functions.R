@@ -16,6 +16,7 @@ suppressPackageStartupMessages(library(stringr))
 suppressPackageStartupMessages(library(xlsx))
 suppressPackageStartupMessages(library(stringdist))
 suppressPackageStartupMessages(library(tidyr))
+suppressPackageStartupMessages(library(readxl))
 
 ###################################################
 
